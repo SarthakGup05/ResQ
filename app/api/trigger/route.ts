@@ -24,7 +24,7 @@ export async function POST(request: Request) {
     // 2. Translate using localizeObject
     // This preserves the structure and only translates the string values
     const translated = await lingo.localizeObject(payload, {
-      sourceLocale: "auto",
+      sourceLocale: null,
       targetLocale: targetLang || "es",
     });
 

@@ -14,16 +14,33 @@ export default function AdminPage() {
         try {
             const scenario = disasterData[0]; // Using the first scenario for now
 
-            // Using axios instead of fetch
+            // 1. Send to AI for Translation (Your Backend)
             const res = await axios.post("/api/trigger", {
                 text: scenario.text,
                 lat: scenario.lat,
                 long: scenario.long,
-                targetLang: scenario.targetLang
+                targetLang: scenario.targetLang,
+                sourceLang: "de" // Start with German as per prompt instructions
             });
 
-            console.log("Disaster Broadcasted:", res.data);
-            setStatus("Sent! Check Console.");
+            const data = res.data;
+
+            // 2. BROADCAST: Save the result to LocalStorage
+            // This simulates the "Server" pushing an alert to the user's phone
+            const alertPayload = {
+                active: true,
+                message: data.translated_text, // The AI translated text
+                location: data.location,       // The preserved coordinates
+                timestamp: new Date().toLocaleTimeString(),
+                context: data.debug_context_used // Optional: Show context in dashboard
+            };
+
+            localStorage.setItem("latest_alert", JSON.stringify(alertPayload));
+
+            // Dispatch a storage event so other tabs update instantly
+            window.dispatchEvent(new Event("storage"));
+
+            setStatus("Sent! Check Dashboard Tab.");
         } catch (error) {
             console.error("Broadcast failed:", error);
             setStatus("Failed! Check Console.");
