@@ -1,0 +1,28 @@
+{
+  "version": 0.1,
+  "locale": "de",
+  "entries": {
+    "8818ca53e31c": "Next-App erstellen",
+    "86dbb9f023f2": "Generiert von create next app",
+    "4f650bc096d1": "Next.js-Logo",
+    "01691b5f2941": "Um zu beginnen, bearbeiten Sie die Datei page.tsx.",
+    "1b03566fac74": "Suchen Sie nach einem Ausgangspunkt oder weiteren Anleitungen? Besuchen Sie <a0>Vorlagen</a0> oder das <a1>Lernzentrum</a1>.",
+    "2371a9421fdf": "Jetzt bereitstellen",
+    "d83cc9d58869": "Vercel-Logomarke",
+    "d19966f324ba": "Dokumentation",
+    "078aa53e73ea": "🚨 NOTFALLSTEUERUNG",
+    "6721f6b3de77": "Regierungs-Feed simulieren",
+    "50be267eb4d7": "ERDBEBEN AUSLÖSEN",
+    "eccda6bf6310": "Status: {status}",
+    "ed985ec6e3f8": "ResQ-Dashboard",
+    "e734758c1d22": "Empfangen: {expression0}",
+    "c019689407be": "Betroffenes Gebiet",
+    "744815d1dcf8": "SOS-Anruf",
+    "41f8f4934f9b": "Ich bin in Sicherheit",
+    "76146e4b396a": "Gefahrenzone <br0></br0> Meiden Sie diesen Bereich.",
+    "58cdc7c1c36b": "🇺🇸 English",
+    "b94e6865f82b": "🇪🇸 Español",
+    "b5285c9b4a91": "🇩🇪 Deutsch",
+    "8ed37ac1b1f3": "🇯🇵 日本語"
+  }
+}

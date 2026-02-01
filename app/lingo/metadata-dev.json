@@ -1,0 +1,64 @@
+{
+  "entries": {
+    "58cdc7c1c36b": {
+      "type": "content",
+      "sourceText": "🇺🇸 English",
+      "context": {
+        "componentName": "LanguageSwitcher",
+        "filePath": "../components/LanguageSwitcher.tsx"
+      },
+      "hash": "58cdc7c1c36b",
+      "location": {
+        "filePath": "../components/LanguageSwitcher.tsx",
+        "line": 33,
+        "column": 16
+      }
+    },
+    "b94e6865f82b": {
+      "type": "content",
+      "sourceText": "🇪🇸 Español",
+      "context": {
+        "componentName": "LanguageSwitcher",
+        "filePath": "../components/LanguageSwitcher.tsx"
+      },
+      "hash": "b94e6865f82b",
+      "location": {
+        "filePath": "../components/LanguageSwitcher.tsx",
+        "line": 34,
+        "column": 16
+      }
+    },
+    "b5285c9b4a91": {
+      "type": "content",
+      "sourceText": "🇩🇪 Deutsch",
+      "context": {
+        "componentName": "LanguageSwitcher",
+        "filePath": "../components/LanguageSwitcher.tsx"
+      },
+      "hash": "b5285c9b4a91",
+      "location": {
+        "filePath": "../components/LanguageSwitcher.tsx",
+        "line": 35,
+        "column": 16
+      }
+    },
+    "8ed37ac1b1f3": {
+      "type": "content",
+      "sourceText": "🇯🇵 日本語",
+      "context": {
+        "componentName": "LanguageSwitcher",
+        "filePath": "../components/LanguageSwitcher.tsx"
+      },
+      "hash": "8ed37ac1b1f3",
+      "location": {
+        "filePath": "../components/LanguageSwitcher.tsx",
+        "line": 36,
+        "column": 16
+      }
+    }
+  },
+  "stats": {
+    "totalEntries": 4,
+    "lastUpdated": "2026-02-01T09:52:40.688Z"
+  }
+}

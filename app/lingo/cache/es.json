@@ -1,0 +1,28 @@
+{
+  "version": 0.1,
+  "locale": "es",
+  "entries": {
+    "8818ca53e31c": "Crear aplicación Next",
+    "86dbb9f023f2": "Generado por create next app",
+    "4f650bc096d1": "Logotipo de Next.js",
+    "01691b5f2941": "Para comenzar, edita el archivo page.tsx.",
+    "1b03566fac74": "¿Buscas un punto de partida o más instrucciones? Dirígete a <a0>Plantillas</a0> o al centro de <a1>Aprendizaje</a1>.",
+    "2371a9421fdf": "Desplegar ahora",
+    "d83cc9d58869": "Logotipo de Vercel",
+    "d19966f324ba": "Documentación",
+    "078aa53e73ea": "🚨 CONTROL DE EMERGENCIA",
+    "6721f6b3de77": "Simular fuente gubernamental",
+    "50be267eb4d7": "ACTIVAR TERREMOTO",
+    "eccda6bf6310": "Estado: {status}",
+    "ed985ec6e3f8": "Panel de ResQ",
+    "e734758c1d22": "Recibido: {expression0}",
+    "c019689407be": "Área afectada",
+    "744815d1dcf8": "Llamada SOS",
+    "41f8f4934f9b": "Estoy a salvo",
+    "76146e4b396a": "Zona de peligro <br0></br0> Evita esta área.",
+    "58cdc7c1c36b": "🇺🇸 English",
+    "b94e6865f82b": "🇪🇸 Español",
+    "b5285c9b4a91": "🇩🇪 Deutsch",
+    "8ed37ac1b1f3": "🇯🇵 日本語"
+  }
+}

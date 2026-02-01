@@ -5,6 +5,7 @@ import dynamic from "next/dynamic";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { AlertTriangle, CheckCircle, RefreshCcw } from "lucide-react";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 
 const Map = dynamic(() => import("@/components/Map"), { ssr: false });
 
@@ -47,9 +48,7 @@ export default function Dashboard() {
             <div className="flex justify-between items-center">
                 {/* Compiler will translate this automatically */}
                 <h1 className="text-2xl font-bold text-slate-900">ResQ Dashboard</h1>
-                <Button variant="ghost" size="icon" onClick={clearAlert}>
-                    <RefreshCcw className="h-4 w-4" />
-                </Button>
+                <LanguageSwitcher />
             </div>
 
             <Card className={alert.active ? "border-red-500 bg-red-50 animate-pulse" : "border-green-500 bg-green-50"}>
