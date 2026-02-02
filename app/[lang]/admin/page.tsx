@@ -3,7 +3,16 @@ import { useState } from "react";
 import axios from "axios";
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import disasterData from "./data.json";
+
+const disasterData = [
+    {
+        "id": "scenario-1",
+        "text": "ACHTUNG: Starkes Erdbeben in Sektor 7. Evakuieren Sie sofort!",
+        "lat": 35.6895,
+        "long": 139.6917,
+        "targetLang": "en"
+    }
+];
 
 export default function AdminPage() {
     const [status, setStatus] = useState("Idle");

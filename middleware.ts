@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
 // match all locales in your lingo.json
-const locales = ["en", "es", "de", "fr", "ja"];
+const locales = ["en", "es", "de", "fr", "ja", "zh", "hi"];
 
 export default function middleware(request: NextRequest) {
   // Check if there is any supported locale in the pathname

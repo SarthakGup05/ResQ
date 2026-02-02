@@ -34,6 +34,9 @@ export default function LanguageSwitcher() {
                 <option value="es">🇪🇸 Español</option>
                 <option value="de">🇩🇪 Deutsch</option>
                 <option value="ja">🇯🇵 日本語</option>
+                <option value="fr">🇫🇷 Français</option>
+                <option value="zh">🇨🇳 中文</option>
+                <option value="hi">🇮🇳 हिन्दी</option>
             </select>
             {/* Custom arrow for better aesthetics matching shadcn */}
             <div className="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none text-slate-500">

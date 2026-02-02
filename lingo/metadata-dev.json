@@ -1,5 +1,173 @@
 {
   "entries": {
+    "c740ce5712e0": {
+      "type": "content",
+      "sourceText": "TEST TRANSLATION PLEASE IGNORE",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "c740ce5712e0",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 43,
+        "column": 12
+      }
+    },
+    "bd5ea0de5504": {
+      "type": "content",
+      "sourceText": "EN",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "bd5ea0de5504",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 49,
+        "column": 16
+      }
+    },
+    "09a9da74c1b7": {
+      "type": "content",
+      "sourceText": "ES",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "09a9da74c1b7",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 50,
+        "column": 16
+      }
+    },
+    "d67603271f1d": {
+      "type": "content",
+      "sourceText": "DE",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "d67603271f1d",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 51,
+        "column": 16
+      }
+    },
+    "a889036bcce9": {
+      "type": "content",
+      "sourceText": "JA",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "a889036bcce9",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 52,
+        "column": 16
+      }
+    },
+    "8de2462d2f11": {
+      "type": "content",
+      "sourceText": "FR",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "8de2462d2f11",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 53,
+        "column": 16
+      }
+    },
+    "e364fa05ecca": {
+      "type": "content",
+      "sourceText": "ZH",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "e364fa05ecca",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 54,
+        "column": 16
+      }
+    },
+    "efed4e30a037": {
+      "type": "content",
+      "sourceText": "HI",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "efed4e30a037",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 55,
+        "column": 16
+      }
+    },
+    "af0a86344b0d": {
+      "type": "content",
+      "sourceText": "PT",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "af0a86344b0d",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 56,
+        "column": 16
+      }
+    },
+    "90234e28beb2": {
+      "type": "content",
+      "sourceText": "IT",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "90234e28beb2",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 57,
+        "column": 16
+      }
+    },
+    "12716cd5f3c1": {
+      "type": "content",
+      "sourceText": "KO",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "12716cd5f3c1",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 58,
+        "column": 16
+      }
+    },
+    "0b58149d0af6": {
+      "type": "content",
+      "sourceText": "RU",
+      "context": {
+        "componentName": "Dashboard",
+        "filePath": "app/[lang]/dashboard/page.tsx"
+      },
+      "hash": "0b58149d0af6",
+      "location": {
+        "filePath": "app/[lang]/dashboard/page.tsx",
+        "line": 59,
+        "column": 16
+      }
+    },
     "69c465fe5fff": {
       "type": "metadata",
       "sourceText": "Create Next App",
@@ -38,7 +206,7 @@
       "hash": "952b380f47fe",
       "location": {
         "filePath": "app/[lang]/admin/page.tsx",
-        "line": 54,
+        "line": 63,
         "column": 20
       }
     },
@@ -52,7 +220,7 @@
       "hash": "006c807e810f",
       "location": {
         "filePath": "app/[lang]/admin/page.tsx",
-        "line": 57,
+        "line": 66,
         "column": 20
       }
     },
@@ -66,7 +234,7 @@
       "hash": "b99b328f12de",
       "location": {
         "filePath": "app/[lang]/admin/page.tsx",
-        "line": 58,
+        "line": 67,
         "column": 20
       }
     },
@@ -80,153 +248,97 @@
       "hash": "6a91ef0e7b0d",
       "location": {
         "filePath": "app/[lang]/admin/page.tsx",
-        "line": 64,
+        "line": 73,
         "column": 20
       }
     },
-    "e7a8b4ae3d28": {
+    "08a27da946c2": {
       "type": "content",
-      "sourceText": "ResQ Dashboard",
+      "sourceText": "Live Alert",
       "context": {
-        "componentName": "Dashboard",
-        "filePath": "app/[lang]/dashboard/page.tsx"
+        "componentName": "LiveAlertCard",
+        "filePath": "components/dashboard/LiveAlertCard.tsx"
       },
-      "hash": "e7a8b4ae3d28",
+      "hash": "08a27da946c2",
       "location": {
-        "filePath": "app/[lang]/dashboard/page.tsx",
-        "line": 50,
-        "column": 16
-      }
-    },
-    "274984e5aa3f": {
-      "type": "content",
-      "sourceText": "Received: {expression0}",
-      "context": {
-        "componentName": "Dashboard",
-        "filePath": "app/[lang]/dashboard/page.tsx"
-      },
-      "hash": "274984e5aa3f",
-      "location": {
-        "filePath": "app/[lang]/dashboard/page.tsx",
-        "line": 70,
-        "column": 24
-      }
-    },
-    "5f5a03b7b6dc": {
-      "type": "content",
-      "sourceText": "Affected Area",
-      "context": {
-        "componentName": "Dashboard",
-        "filePath": "app/[lang]/dashboard/page.tsx"
-      },
-      "hash": "5f5a03b7b6dc",
-      "location": {
-        "filePath": "app/[lang]/dashboard/page.tsx",
-        "line": 80,
+        "filePath": "components/dashboard/LiveAlertCard.tsx",
+        "line": 16,
         "column": 20
       }
     },
-    "a3602e906bf2": {
+    "68c74121c638": {
       "type": "content",
-      "sourceText": "SOS Call",
+      "sourceText": "SECURE_DATA_LOCK: {expression0}, {expression1}",
       "context": {
-        "componentName": "Dashboard",
-        "filePath": "app/[lang]/dashboard/page.tsx"
+        "componentName": "LiveAlertCard",
+        "filePath": "components/dashboard/LiveAlertCard.tsx"
       },
-      "hash": "a3602e906bf2",
+      "hash": "68c74121c638",
       "location": {
-        "filePath": "app/[lang]/dashboard/page.tsx",
-        "line": 86,
+        "filePath": "components/dashboard/LiveAlertCard.tsx",
+        "line": 33,
+        "column": 20
+      }
+    },
+    "83d0646b9b14": {
+      "type": "content",
+      "sourceText": "Live Location Feed",
+      "context": {
+        "componentName": "DashboardMap",
+        "filePath": "components/dashboard/DashboardMap.tsx"
+      },
+      "hash": "83d0646b9b14",
+      "location": {
+        "filePath": "components/dashboard/DashboardMap.tsx",
+        "line": 15,
         "column": 16
       }
     },
-    "b568f80cb292": {
+    "f11fa6399db0": {
       "type": "content",
       "sourceText": "I am Safe",
       "context": {
-        "componentName": "Dashboard",
-        "filePath": "app/[lang]/dashboard/page.tsx"
+        "componentName": "ActionButtons",
+        "filePath": "components/dashboard/ActionButtons.tsx"
       },
-      "hash": "b568f80cb292",
+      "hash": "f11fa6399db0",
       "location": {
-        "filePath": "app/[lang]/dashboard/page.tsx",
-        "line": 89,
-        "column": 16
+        "filePath": "components/dashboard/ActionButtons.tsx",
+        "line": 8,
+        "column": 12
       }
     },
-    "820f63eacf72": {
+    "77246d4d3984": {
       "type": "content",
-      "sourceText": "🇺🇸 English",
+      "sourceText": "Call Emergency",
       "context": {
-        "componentName": "LanguageSwitcher",
-        "filePath": "components/LanguageSwitcher.tsx"
+        "componentName": "ActionButtons",
+        "filePath": "components/dashboard/ActionButtons.tsx"
       },
-      "hash": "820f63eacf72",
+      "hash": "77246d4d3984",
       "location": {
-        "filePath": "components/LanguageSwitcher.tsx",
-        "line": 33,
-        "column": 16
+        "filePath": "components/dashboard/ActionButtons.tsx",
+        "line": 12,
+        "column": 12
       }
     },
-    "5c372ef51f6d": {
+    "0c5cd369cf09": {
       "type": "content",
-      "sourceText": "🇪🇸 Español",
+      "sourceText": "Danger Zone",
       "context": {
-        "componentName": "LanguageSwitcher",
-        "filePath": "components/LanguageSwitcher.tsx"
+        "componentName": "DashboardHeader",
+        "filePath": "components/dashboard/DashboardHeader.tsx"
       },
-      "hash": "5c372ef51f6d",
+      "hash": "0c5cd369cf09",
       "location": {
-        "filePath": "components/LanguageSwitcher.tsx",
-        "line": 34,
-        "column": 16
-      }
-    },
-    "cad5ea12198c": {
-      "type": "content",
-      "sourceText": "🇩🇪 Deutsch",
-      "context": {
-        "componentName": "LanguageSwitcher",
-        "filePath": "components/LanguageSwitcher.tsx"
-      },
-      "hash": "cad5ea12198c",
-      "location": {
-        "filePath": "components/LanguageSwitcher.tsx",
-        "line": 35,
-        "column": 16
-      }
-    },
-    "421cbc818395": {
-      "type": "content",
-      "sourceText": "🇯🇵 日本語",
-      "context": {
-        "componentName": "LanguageSwitcher",
-        "filePath": "components/LanguageSwitcher.tsx"
-      },
-      "hash": "421cbc818395",
-      "location": {
-        "filePath": "components/LanguageSwitcher.tsx",
-        "line": 36,
-        "column": 16
-      }
-    },
-    "38b3338e5a9b": {
-      "type": "content",
-      "sourceText": "Danger Zone <br0></br0> Avoid this area.",
-      "context": {
-        "componentName": "Map",
-        "filePath": "components/Map.tsx"
-      },
-      "hash": "38b3338e5a9b",
-      "location": {
-        "filePath": "components/Map.tsx",
-        "line": 30,
+        "filePath": "components/dashboard/DashboardHeader.tsx",
+        "line": 10,
         "column": 20
       }
     }
   },
   "stats": {
-    "totalEntries": 16,
-    "lastUpdated": "2026-02-01T10:03:16.354Z"
+    "totalEntries": 24,
+    "lastUpdated": "2026-02-02T10:39:32.420Z"
   }
 }
